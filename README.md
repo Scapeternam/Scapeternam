@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Scapeternam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Teach+%F0%9F%91%8B;Full-stack+Developer;Build+%26+Learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Scapeternam+%F0%9F%91%8B;Full-stack+Developer;Build+%26+Learn" alt="Typing SVG" />
   </a>
 </div>
 
