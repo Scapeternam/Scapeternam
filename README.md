@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Scapeternam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Scapeternam+%F0%9F%91%8B;Full-stack+Developer;Build+%26+Learn" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Scapeternam+%F0%9F%91%8B;Full-stack+Developer;Build+%26+Learn" alt="Typing SVG" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ## About Me
 
-First-year coding student at **Epitech Paris**, building a coherent tech ecosystem through SaaS, Web3, and AI projects. Founder of **Agence IT Teach (Octopus)** — a collective of 8 Epitech student developers. Every project is a building block, not an isolated idea. Build & learn, no shortcuts.
+First-year coding student at **Epitech Paris**, building a coherent tech ecosystem through SaaS, Web3, and AI projects. Founder of **Octopus Agency** — a collective of 8 Epitech student developers. Every project is a building block, not an isolated idea. Build & learn, no shortcuts.
 
 - 🎓 Epitech WAC Promo 2027 (Paris) — targeting MSc Data / AI / Cybersecurity
 - 🏢 Running a tech agency alongside my studies
@@ -35,22 +35,17 @@ First-year coding student at **Epitech Paris**, building a coherent tech ecosyst
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
+### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
+### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
@@ -58,21 +53,31 @@ First-year coding student at **Epitech Paris**, building a coherent tech ecosyst
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+### Blockchain
 <p align="center">
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Anchor-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
+### DevOps & Infra
+<p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
+### AI & Automation
 <p align="center">
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_API-3B82F6?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
@@ -168,7 +173,7 @@ First-year coding student at **Epitech Paris**, building a coherent tech ecosyst
   </tr>
   <tr>
     <td width="100%" colspan="2">
-      <h3 align="center">🖥️ Homelab Teach</h3>
+      <h3 align="center">🖥️ Homelab</h3>
       <p align="center">Self-hosted AI automation server (Acer Aspire, Ubuntu Server). Powers personal automation (Jarvis), newsletter (Persona), and knowledge base RAG — all Dockerized.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
