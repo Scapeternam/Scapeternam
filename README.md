@@ -85,17 +85,13 @@ First-year coding student at **Epitech Paris**, building a coherent tech ecosyst
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Scapeternam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scapeternam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-mu-azure.vercel.app/api?username=Scapeternam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+  <img src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs/?username=Scapeternam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Scapeternam&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Scapeternam&theme=tokyonight&no-frame=true&column=4&margin-w=10&margin-h=10" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scapeternam&theme=tokyo-night&hide_border=true" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=Scapeternam&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Scapeternam&theme=tokyo-night&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -121,24 +117,6 @@ First-year coding student at **Epitech Paris**, building a coherent tech ecosyst
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">🧠 Odysseus</h3>
-      <p align="center">
-        <a href="https://github.com/Scapeternam/Odysseus">
-          <img src="https://img.shields.io/badge/Repo-View-3B82F6?style=flat&logo=github" />
-        </a>
-      </p>
-      <p align="center">Self-hosted AI workspace — local-first, privacy-first. Chat with agents, deep research, document management, and email triage via IMAP. RAG on personal knowledge base.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/MCP-000000?style=flat-square" />
-        <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">🇨🇭 FrontalierPro</h3>
       <p align="center">
         <a href="https://frontalierpro.com">
@@ -154,6 +132,8 @@ First-year coding student at **Epitech Paris**, building a coherent tech ecosyst
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">📦 PickUp</h3>
       <p align="center">
@@ -170,9 +150,7 @@ First-year coding student at **Epitech Paris**, building a coherent tech ecosyst
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2">
+    <td width="50%">
       <h3 align="center">🖥️ Homelab</h3>
       <p align="center">Self-hosted AI automation server (Acer Aspire, Ubuntu Server). Powers personal automation (Jarvis), newsletter (Persona), and knowledge base RAG — all Dockerized.</p>
       <p align="center">
